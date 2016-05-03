@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#elaine-m-cover {
+  background-image: url("../assests/img/elaine-miller-cover.jpg");
+}
+
+#elaine-m-card {
+  background-image: url(".../assests/img/elaine-miller.jpg");
+}
+
 #nana-adukrow-cover {
   background-image: url("..assets/img/nana-adukrow-cover.jpg");
 
